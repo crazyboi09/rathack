@@ -1,0 +1,2 @@
+# rathack
+learn hacking easily 
